@@ -3,8 +3,8 @@
 ## Summary
 Built an interactive Power BI dashboard to derive insights from diverse datasets. The project demonstrates end-to-end data analysis and visualization using Power BI’s rich feature set.
 
-## Dashboard Description
-Built using three datasets — Products, Sales, and Customers — this dashboard showcases Total Revenue, Average Discount, and Sales Trends. It includes interactive filters by Region, Category, and other key dimensions for dynamic analysis.
+## Dashboard Preview
+This Power BI dashboard provides a comprehensive overview of sales performance based on three datasets: Products, Sales, and Customers. It is designed to offer a quick, interactive summary of sales dynamics, helping users identify trends, regional performance, and product-level insights.
 
 ## Key Highlights
 - Explored Power BI's capabilities by **loading and integrating data from multiple sources**.
