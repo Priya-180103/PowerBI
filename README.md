@@ -13,4 +13,4 @@ Built an interactive Power BI dashboard to derive insights from diverse datasets
 - Added **KPI cards and tooltips** to enhance usability and performance monitoring.
 - Focused on **UX/UI best practices** for clarity, accessibility, and decision-making support.
 
-  ![](attachment:f8a877a1-f890-4a04-8cb3-9c3f28706e62:nse-2336763672071139485-677905269.png)
+ ![Dashboard Overview](Images/Sales_Dashboard.png)
